@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoleonardoh1/)
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HugoLeonardoH)
 
-![Hugo Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoLeonardoH&show_icons=true&theme=dracula)
+![Hugo Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoLeonardoH1&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso.
 
